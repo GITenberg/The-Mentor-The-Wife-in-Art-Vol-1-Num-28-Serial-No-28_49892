@@ -1,4 +1,8 @@
 _repo: The-Mentor-The-Wife-in-Art-Vol-1-Num-28-Serial-No-28_49892
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49892-h/images/cover.jpg
 creator:
   author:
     agent_name: Kobbé, Gustav
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7832
     wikipedia: http://en.wikipedia.org/wiki/Gustav_Kobbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49892#The-Mentor-The-Wife-in-Art-Vol-1-Num-28-Serial-No-28
 gutenberg_issued: '2015-09-06'
 gutenberg_type: Text
 identifiers:
