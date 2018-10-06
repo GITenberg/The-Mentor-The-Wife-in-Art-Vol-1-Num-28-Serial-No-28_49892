@@ -23,5 +23,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: The Wife in Art, Vol. 1, Num. 28, Serial No. 28'
 url: http://www.gutenberg.org/ebooks/49892
